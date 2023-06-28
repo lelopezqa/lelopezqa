@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luis Lopez
 - 👀 I’m interested in Nuevos conocimientos tecnologicos
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... QA
+- 💞️ I’m looking to collaborate on ...QA
 - 📫 How to reach me ...
 
 <!---
